@@ -1,5 +1,5 @@
 # Hybrid optimization between iterative and network fine-tuning reconstructions for fast quantitative susceptibility mapping
-This repo contains demo code for the paper, [Hybrid optimization between iterative and network fine-tuning reconstructions for fast quantitative susceptibility mapping](https://openreview.net/forum?id=LFaxozc7Awm).
+This repo contains demo code for the papers, [Hybrid optimization between iterative and network fine-tuning reconstructions for fast quantitative susceptibility mapping](https://openreview.net/forum?id=LFaxozc7Awm), and [Fidelity imposed network edit (FINE) for solving ill-posed image reconstruction](https://www.sciencedirect.com/science/article/pii/S1053811920300665).
 
 ## Dependencies
 This code requires the following:
